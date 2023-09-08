@@ -1,0 +1,33 @@
+{
+  "name": "mantine-react-calendar-timeline-demo-forked",
+  "version": "0.0.0",
+  "description": null,
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "@emotion/react": "11.10.0",
+    "@mantine/core": "5.0.2",
+    "@mantine/dates": "5.0.2",
+    "@mantine/hooks": "5.0.2",
+    "@tabler/icons": "1.78.1",
+    "dayjs": "1.11.4",
+    "faker": "4.1.0",
+    "interactjs": "1.10.17",
+    "moment": "2.29.4",
+    "prop-types": "15.8.1",
+    "randomcolor": "0.6.2",
+    "react": "16.14.0",
+    "react-calendar-timeline": "0.28.0",
+    "react-dom": "16.14.0",
+    "tabler-icons-react": "1.54.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
